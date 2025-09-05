@@ -3,7 +3,7 @@ An interactive story game written in Python. Follow Clara and her friends as the
 
 =======================================================================================================================================================================
 
-Our story's main character, Clara, is a sophomore photography student at Yale University. She's a bit of an introvert. Clara has few friends at school, but her closest companions are Robin, Jessica, and Jessica's boyfriend, ALex. The story begins with Clara finding a strange camera, and the series of events unfolds.
+Our story's main character, Clara, is a sophomore photography student at Yale University. She's a bit of an introvert. Clara has few friends at school, but her closest companions are Robin, Jessica, and Jessica's boyfriend, Alex. The story begins with Clara finding a strange camera, and the series of events unfolds.
 
 =======================================================================================================================================================================
 
